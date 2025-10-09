@@ -1380,10 +1380,11 @@ start htmlcov/index.html  # Windows
 ```
 
 ## แนบรูปผลการทดลองการทดสอบระบบ
-```plaintext
-# แนบรูปผลการทดลองที่นี่
 
-``` 
+# แนบรูปผลการทดลองที่นี่
+<img width="1302" height="586" alt="image" src="https://github.com/user-attachments/assets/f56e3404-e53c-4597-95c3-ecb22dbcd40d" />
+
+
 ## คำถามการทดลอง
 ให้จับคู่ Code ส่วนของการทดสอบ กับ Code การทำงาน มาอย่างน้อย 3 ฟังก์ชัน พร้อมอธิบายการทำงานของแต่ละกรณี
 ```plaintext
