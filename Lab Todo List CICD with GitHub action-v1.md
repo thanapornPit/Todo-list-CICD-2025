@@ -2131,7 +2131,7 @@ docker-compose up -d
 
 ตรวจสอบว่าทำสำเร็จทุกข้อ:
 
-- [ /] สร้าง GitHub repository และ clone ลงเครื่อง
+- [ ] สร้าง GitHub repository และ clone ลงเครื่อง
 - [ /] สร้าง Flask application ที่มี CRUD operations ครบถ้วน
 - [ /] เขียน tests ที่ครอบคลุม code coverage > 80%
 - [ /] สร้าง Dockerfile ที่ optimize แล้ว
